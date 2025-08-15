@@ -1,0 +1,595 @@
+album_title,artist,genre,genre_umbrella,release_year,decade,country,length,season,sentimental_value
+Souvenirs d'un autre monde,Alcest,post-metal,rock/alternative,2007,2000s,france,41:20:00,spring,low
+Dirt,Alice in Chains,grunge,rock/alternative,1992,1990s,usa,57:32:00,fall,high
+Songs About,Big Black,noise rock,rock/alternative,1987,1980s,usa,29:08:00,any,medium
+Atomizer,Big Black,noise rock,rock/alternative,1986,1980s,usa,37:24:00,any,low
+Master of Reality,Black Sabbath,heavy metal,rock/alternative,1971,1970s,uk,34:29:00,any,medium
+Paranoid,Black Sabbath,heavy metal,rock/alternative,1970,1970s,uk,41:51:00,any,low
+Urge to Kill,Brainbombs,noise rock,rock/alternative,1999,1990s,sweden,36:38:00,any,low
+Abyss,Chelsea Wolfe,gothic rock,rock/alternative,2015,2010s,usa,55:17:00,winter,low
+Around the Fur,Deftones,alternative metal,rock/alternative,1997,1990s,usa,74:01:00,summer,medium
+Koi no Yokan,Deftones,alternative metal,rock/alternative,2000,2000s,usa,48:43:00,fall,low
+White Pony,Deftones,alternative metal,rock/alternative,2012,2010s,usa,51:43:00,spring,high
+Yank Crime,Drive Like Jehu,noise rock,rock/alternative,1994,1990s,usa,53:15:00,any,low
+Dopethrone,Electric Wizard,doom metal,rock/alternative,2000,2000s,uk,71:08:00,any,medium
+Repeater,Fugazi,post-hardcore,rock/alternative,1990,1990s,usa,35:14:00,any,low
+Live Through This,Hole,grunge,rock/alternative,1994,1990s,usa,38:03:00,fall,high
+You'd Prefer an Astronaut,Hum,post-hardcore,rock/alternative,1995,1990s,usa,45:47:00,fall,low
+Blues for the Red Sun,Kyuss,psychedelic rock,rock/alternative,1992,1990s,usa,50:39:00,summer,low
+77 Live,Les Rallizes Denudes,noise rock,rock/alternative,1991,1990s,japan,100:47:00,any,low
+Houdini,Melvins,sludge metal,rock/alternative,1993,1990s,usa,54:41:00,summer,low
+The Mind Is a Terrible Thing to Taste,Ministry,industrial,rock/alternative,1989,1980s,usa,45:13:00,winter,low
+The Downward Spiral,Nine Inch Nails,industrial,rock/alternative,1994,1990s,usa,65:02:00,any,medium
+In Utero,Nirvana,grunge,rock/alternative,1993,1990s,usa,41:00:00,fall,high
+Nevermind,Nirvana,grunge,rock/alternative,1991,1990s,usa,42:32:00,fall,high
+Ten,Pearl Jam,grunge,rock/alternative,1991,1990s,usa,54:47:00,fall,low
+Rid of Me,PJ Harvey,noise rock,rock/alternative,1993,1990s,uk,47:59:00,any,low
+Without You I'm Nothing,Placebo,post-hardcore,rock/alternative,1998,1990s,uk,65:48:00,summer,low
+Dust,Screaming Trees,grunge,rock/alternative,1996,1990s,usa,44:15:00,spring,low
+At Action Park,Shellac,post-hardcore,rock/alternative,1994,1990s,usa,36:57:00,any,low
+Adore,Smashing Pumpkins,art rock,rock/alternative,1995,1990s,usa,121:39:00,fall,medium
+Mellon Collie and the Infinite Sadness,Smashing Pumpkins,grunge,rock/alternative,1993,1990s,usa,62:08:00,summer,medium
+Siamese Dream,Smashing Pumpkins,art rock,rock/alternative,1998,1990s,usa,72:51:00,winter,medium
+Daydream Nation,Sonic Youth,noise rock,rock/alternative,1988,1980s,usa,70:47:00,any,medium
+Dirty,Sonic Youth,noise rock,rock/alternative,1992,1990s,usa,59:07:00,summer,low
+Evol,Sonic Youth,noise rock,rock/alternative,1986,1980s,usa,28:35:00,any,low
+Mezmerize,System of a Down,alternative metal,rock/alternative,2005,2000s,usa,36:08:00,summer,high
+Toxicity,System of a Down,alternative metal,rock/alternative,2001,2000s,usa,43:57:00,any,medium
+20 Jazz Funk Greats,Throbbing Gristle,industrial,electronic,1979,1970s,uk,41:28:00,any,low
+October Rust,Type O Negative,gothic rock,rock/alternative,1996,1990s,usa,72:51:00,fall,medium
+New Plastic Ideas,Unwound,post-hardcore,rock/alternative,1994,1990s,usa,39:43:00,fall,medium
+Leaves Turn Inside You,Unwound,post-hardcore,rock/alternative,2001,2000s,usa,74:40:00,fall,low
+Repetition,Unwound,post-hardcore,rock/alternative,1996,1990s,usa,46:24:00,winter,low
+The Future of What,Unwound,post-hardcore,rock/alternative,1995,1990s,usa,59:10:00,winter,low
+Acetone,Acetone,slowcore,rock/alternative,1997,1990s,usa,56:58:00,fall,low
+House of Sugar,Alex G,indie folk,folk/country,2019,2010s,usa,37:45:00,fall,medium
+Race,Alex G,indie folk,folk/country,2011,2010s,usa,30:32:00,spring,low
+Transaction de Novo,Bedhead,slowcore,rock/alternative,1998,1990s,usa,37:07:00,fall,low
+Odelay,Beck,neo-psychedelia,rock/alternative,1996,1990s,usa,54:10:00,summer,high
+Big Blood & the Bleedin' Hearts,Big Blood & the Bleedin' Hearts,psychedelic folk,folk/country,2008,2000s,usa,46:48:00,fall,low
+Iron Curtain Innocence,Bobb Trimble,psychedelic folk,folk/country,1980,1980s,usa,41:08:00,fall,medium
+Blood on the Tracks,Bob Dylan,folk,folk/country,1975,1970s,usa,51:40:00,fall,low
+Bringing It All Back Home,Bob Dylan,folk,folk/country,1965,1960s,usa,46:32:00,spring,low
+Desire,Bob Dylan,folk,folk/country,1976,1970s,usa,56:13:00,summer,low
+"For Emma, Forever Ago",Bon Iver,indie folk,folk/country,2007,2000s,usa,37:15:00,winter,high
+"I'm Wide Awake, It's Morning",Bright Eyes,indie folk,folk/country,2005,2000s,usa,45:36:00,fall,high
+Nebraska,Bruce Springsteen,folk,folk/country,1982,1980s,usa,40:06:00,winter,medium
+Unknown Rooms,Chelsea Wolfe,folk,folk/country,2012,2010s,usa,24:55:00,fall,low
+Frigid Stars LP,Codeine,slowcore,rock/alternative,1990,1990s,usa,41:15:00,winter,low
+First Utterance,Comus,psychedelic folk,folk/country,1971,1970s,uk,42:08:00,spring,low
+Green River,Creedence Clearwater Revival,country,folk/country,1969,1960s,usa,28:47:00,summer,medium
+1990,Daniel Johnston,outsider music,folk/country,1990,1990s,usa,44:53:00,fall,low
+Hi How Are You,Daniel Johnston,outsider music,folk/country,1983,1980s,usa,30:38:00,fall,medium
+Songs of Pain,Daniel Johnston,outsider music,folk/country,1981,1980s,usa,56:29:00,spring,low
+The Complete Guide to Insufficiency,David Thomas Braughton,american primitivism,folk/country,2005,2000s,uk,39:06:00,fall,low
+Jolene,Dolly Parton,country,folk/country,1974,1970s,usa,24:27:00,spring,low
+Duster,Duster,slowcore,rock/alternative,2019,2010s,usa,45:54:00,fall,low
+Stratosphere,Duster,slowcore,rock/alternative,1998,1990s,usa,53:45:00,fall,low
+Either/Or,Elliott Smith,indie folk,folk/country,1997,1990s,usa,36:52:00,fall,high
+Elliott Smith,Elliott Smith,indie folk,folk/country,1995,1990s,usa,37:17:00,fall,medium
+Figure 8,Elliott Smith,indie pop,rock/alternative,2000,2000s,usa,52:06:00,fall,high
+Roman Candle,Elliott Smith,indie folk,folk/country,1994,1990s,usa,30:25:00,fall,high
+XO,Elliott Smith,indie pop,rock/alternative,1998,1990s,usa,44:39:00,fall,high
+Fred Neil,Fred Neil,folk,folk/country,1967,1960s,usa,37:56:00,fall,medium
+On Fire,Galaxie 500,slowcore,rock/alternative,1989,1980s,usa,40:26:00,fall,medium
+No Other,Gene Clark,country,folk/country,1974,1970s,usa,44:06:00,fall,low
+All Things Must Pass,George Harrison,folk,folk/country,1970,1970s,uk,103:33:00,spring,high
+Jackson C Frank,Jackson C Frank,folk,folk/country,1965,1960s,usa,33:16:00,fall,high
+The Transfiguration of Blind Joe Death,John Fahey,american primitivism,folk/country,1967,1960s,usa,38:34:00,spring,low
+Blue,Joni Mitchell,folk,folk/country,1971,1970s,canada,35:41:00,spring,high
+For the Roses,Joni Mitchell,folk,folk/country,1972,1970s,canada,40:20:00,spring,low
+Hejira,Joni Mitchell,folk,folk/country,1976,1970s,canada,51:23:00,fall,low
+Now,Kim Jung Mi,folk,folk/country,1973,1970s,south korea,39:58:00,spring,low
+Smoke Ring for My Halo,Kurt Vile,folk,folk/country,2011,2010s,usa,46:49:00,fall,high
+Songs of Leonard Cohen,Leonard Cohen,folk,folk/country,1967,1960s,canada,41:03:00,fall,medium
+Geek the Girl,Lisa Germano,slowcore,rock/alternative,1994,1990s,usa,43:32:00,fall,low
+I Could Live in Hope,Low,slowcore,rock/alternative,1994,1990s,usa,56:17:00,fall,low
+Long Division,Low,slowcore,rock/alternative,1995,1990s,usa,49:09:00,winter,low
+Things We Lost in the Fire,Low,slowcore,rock/alternative,2001,2000s,usa,53:08:00,fall,low
+Mark Hollis,Mark Hollis,post-rock,rock/alternative,1998,1990s,uk,46:56:00,fall,low
+Harvest,Neil Young,country,folk/country,1972,1970s,canada,37:10:00,fall,high
+Harvest Moon,Neil Young,country,folk/country,1992,1990s,canada,51:39:00,fall,low
+On the Beach,Neil Young,country,folk/country,1974,1970s,canada,39:30:00,summer,low
+In the Aeroplane Over the Sea,Neutral Milk Hotel,indie folk,folk/country,1997,1990s,usa,39:51:00,fall,high
+On Avery Island,Neutral Milk Hotel,indie folk,folk/country,1996,1990s,usa,47:58:00,summer,medium
+Five Leaves Left,Nick Drake,folk,folk/country,1969,1960s,uk,39:33:00,fall,low
+Pink Moon,Nick Drake,folk,folk/country,1972,1970s,uk,28:22:00,fall,low
+Chelsea Girl,Nico,folk,folk/country,1967,1960s,germany,45:06:00,fall,medium
+Purple Mountains,Purple Mountains,indie rock,rock/alternative,2019,2010s,usa,44:21:00,winter,low
+Down Colorful Hill,Red House Painters,slowcore,rock/alternative,1992,1990s,usa,43:32:00,fall,low
+Bridge Over Troubled Water,Simon and Garfunkel,folk,folk/country,1970,1970s,usa,36:46:00,fall,low
+Didn't It Rain,Songs: Ohia,folk,folk/country,2002,2000s,usa,43:25:00,fall,low
+Magnolia Electric Co.,Songs: Ohia,country,folk/country,2003,2000s,usa,45:06:00,fall,low
+Good Morning Spider,Sparklehorse,loafcore,rock/alternative,1998,1990s,usa,52:16:00,fall,medium
+It's a Wonderful Life,Sparklehorse,loafcore,rock/alternative,2001,2000s,usa,49:17:00,fall,low
+Vivadixiesubmarinetransmissionplot,Sparklehorse,loafcore,rock/alternative,1995,1990s,usa,47:19:00,fall,medium
+Michigan,Sufjan Stevens,indie folk,folk/country,2003,2000s,usa,66:09:00,winter,high
+Seven Swans,Sufjan Stevens,indie folk,folk/country,2004,2000s,usa,46:14:00,spring,high
+Ghosts of the Great Highway,Sun Kil Moon,folk,folk/country,2003,2000s,usa,58:11:00,fall,low
+Eat a Peach,The Allman Brothers Band,southern rock,rock/alternative,1972,1970s,usa,69:42:00,summer,low
+All Hail West Texas,The Mountain Goats,indie folk,folk/country,2002,2000s,usa,42:02:00,summer,low
+Tallahassee,The Mountain Goats,indie folk,folk/country,2002,2000s,usa,44:28:00,fall,low
+Guitar,Tobari Daisuke,psychedelic folk,folk/country,1999,1990s,japan,49:49:00,fall,low
+Full Moon Fever,Tom Petty,folk,folk/country,1989,1980s,usa,39:12:00,summer,low
+Little Earthquakes,Tori Amos,art pop,pop,1992,1990s,usa,57:29:00,winter,low
+Townes van Zandt,Townes van Zandt,country,folk/country,1969,1960s,usa,34:33:00,fall,low
+Yankee Hotel Foxtrot,Wilco,indie rock,rock/alternative,2002,2000s,usa,51:34:00,fall,medium
+2012-2017,Against All Logic,house,electronic,2018,2010s,usa,66:42:00,summer,low
+Moon Safari,Air,downtempo,electronic,1998,1990s,france,43:33:00,summer,high
+Talkie Walkie,Air,downtempo,electronic,2004,2000s,france,43:34:00,spring,medium
+Permutation,Amon Tobin,drum and bass,electronic,1998,1990s,brazil,70:24:00,any,low
+Selected Ambient Works II,Aphex Twin,IDM,electronic,1994,1990s,uk,156:37:00,winter,medium
+Selected Ambient Works 85-92,Aphex Twin,IDM,electronic,1992,1990s,uk,74:20:00,any,medium
+The Richard D James Album,Aphex Twin,IDM,electronic,1996,1990s,uk,32:51:00,any,medium
+Amber,Autechre,IDM,electronic,1994,1990s,uk,74:23:00,winter,low
+Music Has the Right to Children,Boards of Canada,IDM,electronic,1998,1990s,uk,63:23:00,spring,high
+Beat,Bowery Electric,trip hop,electronic,1996,1990s,usa,70:51:00,winter,low
+Another Green World,Brian Eno,ambient,electronic,1975,1970s,uk,40:36:00,spring,medium
+Untrue,Burial,dubstep,electronic,2007,2000s,uk,50:28:00,winter,low
+Swim,Caribou,indietronica,electronic,2010,2010s,canada,43:06:00,summer,low
+Viva! La Woman,Cibo Matto,trip hop,electronic,1996,1990s,usa,48:07:00,any,low
+Colours,Circulation,house,electronic,2000,2000s,uk,140:35:00,summer,low
+Crystal Castles,Crystal Castles,synthpop,electronic,2008,2000s,canada,51:55:00,winter,low
+Crystal Castles II,Crystal Castles,synthpop,electronic,2010,2010s,canada,52:50:00,winter,low
+Discovery,Daft Punk,house,electronic,2001,2000s,france,60:31:00,summer,high
+Liumin,Deepchord Presents Echospace,dub techno,electronic,2010,2010s,usa,159:10:00,summer,low
+Music for the Masses,Depeche Mode,synthpop,electronic,1987,1980s,uk,44:04:00,any,high
+Some Great Reward,Depeche Mode,synthpop,electronic,1984,1980s,uk,40:21:00,any,high
+Violator,Depeche Mode,synthpop,electronic,1990,1990s,uk,46:33:00,any,high
+Double Cup,DJ Rashad,footwork,electronic,2013,2010s,usa,56:29:00,summer,low
+Walking Wounded,Everything But the Girl,downtempo,electronic,1996,1990s,uk,52:18:00,any,low
+"You've Come a Long Way, Baby",Fatboy Slim,big beat,electronic,1998,1990s,uk,61:58:00,summer,high
+Cosmogramma,Flying Lotus,IDM,electronic,2010,2010s,usa,45:47:00,any,low
+Rounds,Four Tet,downtempo,electronic,2003,2000s,uk,44:55:00,fall,low
+Tactical Neural Implant,Front Line Assembly,industrial,electronic,1992,1990s,canada,45:04:00,any,low
+The Pleasure Principle,Gary Numan,synthpop,electronic,1979,1970s,uk,40:47:00,winter,low
+Pop,Gas,ambient,electronic,2000,2000s,germany,65:42:00,spring,low
+Zauberberg,Gas,ambient,electronic,1998,1990s,germany,65:51:00,fall,low
+Feed the Animals,Girl Talk,plunderphonics,electronic,2008,2000s,usa,53:49:00,summer,high
+Demon Days,Gorillaz,trip hop,electronic,2005,2000s,uk,50:43:00,fall,medium
+Plastic Beach,Gorillaz,electropop,electronic,2010,2010s,uk,56:46:00,summer,high
+AIA Dream Loss,Grouper,ambient,electronic,2011,2010s,usa,39:10:00,winter,low
+La Stazione,Herbert Distel,field recordings,electronic,1990,1990s,switzerland,45:55:00,winter,low
+James Blake,James Blake,dubstep,electronic,2010,2010s,uk,38:06:00,winter,medium
+Overgrown,James Blake,dubstep,electronic,2013,2010s,uk,39:30:00,winter,medium
+Loop-Finding-Jazz-Records,Jan Jelinek,glitch,electronic,2001,2000s,germany,51:43:00,spring,low
+What's Your Pleasure,Jessie Ware,disco,electronic,2020,2020s,uk,53:19:00,summer,low
+Songs,John Maus,synthpop,electronic,2006,2000s,usa,45:27:00,any,low
+We Must Become the Pitiless Censors of Ourselves,John Maus,synthpop,electronic,2011,2010s,usa,32:01:00,winter,high
+Last Exit,Junior Boys,synthpop,electronic,2004,2000s,canada,53:25:00,any,low
+Cross,Justice,electro,electronic,2007,2000s,france,48:07:00,summer,high
+Autobahn,Kraftwerk,progressive electronic,electronic,1974,1970s,germany,43:14:00,spring,medium
+Computer World,Kraftwerk,synthpop,electronic,1981,1980s,germany,33:50:00,any,high
+The Man-Machine,Kraftwerk,synthpop,electronic,1978,1970s,germany,36:13:00,any,high
+Trans Europe Express,Kraftwerk,progressive electronic,electronic,1977,1970s,germany,42:17:00,fall,medium
+Witching Hour,Ladytron,electropop,electronic,2005,2000s,uk,59:51:00,winter,low
+Live at the Paradise Garage,Larry Levan,disco,electronic,2000,2000s,usa,89:15:00,summer,low
+Sound of Silver,LCD Soundsystem,indietronica,electronic,2007,2000s,usa,55:55:00,any,high
+This Is Happening,LCD Soundsystem,indietronica,electronic,2010,2010s,usa,65:32:00,any,high
+Transversal Worldwide Shopping,Lindsheaven Virtual Plaza,ambient,electronic,2013,2010s,brazil,37:38:00,spring,low
+Blue Lines,Massive Attack,trip hop,electronic,1991,1990s,uk,45:05:00,any,medium
+Mezzanine,Massive Attack,trip hop,electronic,1998,1990s,uk,63:29:00,winter,high
+Hongkong,Monolake,dub techno,electronic,1997,1990s,germany,69:19:00,any,low
+"Power, Corruption and Lies",New Order,synthpop,electronic,1983,1980s,uk,42:30:00,any,medium
+Sirens,Nicolas Jaar,downtempo,electronic,2016,2010s,usa,41:44:00,any,low
+Space Is Only Noise,Nicolas Jaar,downtempo,electronic,2011,2010s,usa,46:32:00,any,low
+Dead Man's Party,Oingo Boingo,new wave,rock/alternative,1985,1980s,usa,41:45:00,any,low
+In Sides,Orbital,IDM,electronic,1996,1990s,uk,72:01:00,any,low
+Dazzle Ships,Orchestral Manoeuvres in the Dark,synthpop,electronic,1983,1980s,uk,34:44:00,winter,low
+Dummy,Portishead,trip hop,electronic,1994,1990s,uk,45:23:00,winter,high
+Portishead,Portishead,trip hop,electronic,1997,1990s,uk,50:02:00,winter,low
+Third,Portishead,experimental rock,rock/alternative,2008,2000s,uk,49:16:00,winter,medium
+Quique,Seefeel,downtempo,electronic,1993,1990s,uk,63:23:00,spring,low
+Nite Versions,Soulwax,electro,electronic,2005,2000s,belgium,52:36:00,summer,low
+Is This Real,Sunship,2-step,electronic,1998,1990s,uk,66:57:00,summer,low
+The Hurting,Tears for Fears,synthpop,electronic,1983,1980s,uk,41:23:00,winter,medium
+An Empty Bliss Beyond This World,The Caretaker,ambient,electronic,2011,2010s,uk,45:29:00,winter,low
+Looping State of Mind,The Field,minimal techno,electronic,2011,2010s,sweden,63:52:00,any,low
+Chill Out,The KLF,ambient,electronic,1990,1990s,uk,44:14:00,spring,medium
+Silent Shout,The Knife,electropop,electronic,2006,2000s,sweden,48:35:00,winter,low
+Give Up,The Postal Service,indietronica,electronic,2003,2000s,usa,44:53:00,fall,high
+An Imaginary Country,Tim Hecker,ambient,electronic,2009,2000s,canada,48:04:00,spring,low
+No Highs,Tim Hecker,ambient,electronic,2023,2020s,canada,51:11:00,winter,low
+Virgins,Tim Hecker,ambient,electronic,2013,2010s,canada,48:54:00,winter,low
+Suki Suki Daisuki,Togawa Jun,synthpop,electronic,1985,1980s,japan,27:03:00,any,medium
+Maxinquaye,Tricky,trip hop,electronic,1995,1990s,uk,57:08:00,any,low
+Far Away Trains Passing By,Ulrich Schnauss,downtempo,electronic,2001,2000s,germany,43:20:00,summer,low
+Rossz Csillag Alatt Szuletett,Venetian Snares,breakcore,electronic,2005,2000s,canada,46:42:00,winter,low
+Into the Heart of Love,Woo,ambient,electronic,1990,1990s,uk,68:57:00,spring,low
+Rigning,Yagya,dub techno,electronic,2009,2000s,iceland,62:49:00,spring,low
+Solid State Survivor,Yellow Magic Orchestra,synthpop,electronic,1979,1970s,japan,32:02:00,summer,low
+Safe in the Hands of Love,Yves Tumor,neo-psychedelia,rock/alternative,2018,2010s,usa,41:57:00,any,low
+Fall Be Kind,Animal Collective,neo-psychedelia,rock/alternative,2009,2000s,usa,27:23:00,fall,high
+Feels,Animal Collective,neo-psychedelia,rock/alternative,2005,2000s,usa,51:51:00,spring,high
+Merriweather Post Pavilion,Animal Collective,neo-psychedelia,rock/alternative,2009,2000s,usa,54:45:00,summer,high
+Strawberry Jam,Animal Collective,neo-psychedelia,rock/alternative,2007,2000s,usa,43:31:00,summer,high
+Sung Tongs,Animal Collective,neo-psychedelia,rock/alternative,2004,2000s,usa,52:57:00,fall,high
+Pom Pom,Ariel Pink,hypnagogic pop,electronic,2014,2010s,usa,67:26:00,summer,low
+7,Beach House,dream pop,rock/alternative,2018,2010s,usa,47:04:00,winter,low
+Bloom,Beach House,dream pop,rock/alternative,2012,2010s,usa,60:11:00,spring,low
+Depression Cherry,Beach House,dream pop,rock/alternative,2015,2010s,usa,44:45:00,winter,low
+Teen Dream,Beach House,dream pop,rock/alternative,2010,2010s,usa,48:46:00,summer,high
+Thank Your Lucky Stars,Beach House,dream pop,rock/alternative,2015,2010s,usa,40:51:00,winter,low
+Tender Buttons,Broadcast,indietronica,electronic,2005,2000s,uk,40:32:00,winter,low
+The Noise Made by People,Broadcast,indietronica,electronic,2000,2000s,uk,45:30:00,fall,low
+Work and Non Work,Broadcast,indietronica,electronic,1997,1990s,uk,36:06:00,fall,low
+Ceres and Calypso in the Deep Time,Candy Claws,neo-psychedelia,rock/alternative,2013,2010s,usa,44:12:00,summer,low
+Two Airships / Exploder Falls,Candy Claws,neo-psychedelia,rock/alternative,2008,2000s,usa,30:06:00,summer,low
+Heaven or Las Vegas,Cocteau Twins,dream pop,rock/alternative,1990,1990s,uk,37:50:00,any,medium
+Treasure,Cocteau Twins,dream pop,rock/alternative,1984,1980s,uk,41:46:00,winter,low
+Victorialand,Cocteau Twins,dream pop,rock/alternative,1986,1980s,uk,32:42:00,winter,low
+Halcyon Digest,Deerhunter,neo-psychedelia,rock/alternative,2010,2010s,usa,45:57:00,spring,high
+Microcastle/Weird Era Contd,Deerhunter,neo-psychedelia,rock/alternative,2008,2000s,usa,82:48:00,any,low
+Lost Souls,Doves,dream pop,rock/alternative,2000,2000s,uk,59:09:00,fall,medium
+Kuuchuu Camp,Fishmans,neo-psychedelia,rock/alternative,1996,1990s,japan,45:42:00,summer,low
+Long Season,Fishmans,neo-psychedelia,rock/alternative,1996,1990s,japan,35:16:00,summer,low
+Uchuu Nippon Setagaya,Fishmans,neo-psychedelia,rock/alternative,1997,1990s,japan,58:32:00,summer,medium
+Floating Into the Night,Julee Cruise,dream pop,rock/alternative,1989,1980s,usa,47:47:00,winter,low
+Yerself Is Steam,Mercury Rev,neo-psychedelia,rock/alternative,1991,1990s,usa,49:19:00,summer,medium
+Loveless,My Bloody Valentine,shoegaze,rock/alternative,1991,1990s,ireland,48:31:00,summer,low
+Person Pitch,Panda Bear,neo-psychedelia,rock/alternative,2007,2000s,usa,45:36:00,summer,high
+Sinister Grift,Panda Bear,neo-psychedelia,rock/alternative,2025,2020s,usa,44:44:00,summer,low
+Tsumanne,Shinsei Kamattechan,shoegaze,rock/alternative,2010,2010s,japan,54:56:00,spring,high
+Pygmalion,Slowdive,dream pop,rock/alternative,1995,1990s,uk,48:35:00,winter,low
+"Ladies and Gentlemen, We Are Floating in Space",Spiritualized,space rock,rock/alternative,1997,1990s,uk,69:54:00,fall,high
+Lazer Guided Melodies,Spiritualized,space rock,rock/alternative,1992,1990s,uk,60:58:00,winter,low
+Velocity:Design:Comfort,Sweet Trip,IDM,electronic,2003,2000s,usa,73:41:00,spring,medium
+You Will Never Know Why,Sweet Trip,indie pop,rock/alternative,2009,2000s,usa,56:20:00,spring,medium
+Darklands,The Jesus and Mary Chain,post-punk,rock/alternative,1987,1980s,uk,36:03:00,fall,low
+Psychocandy,The Jesus and Mary Chain,post-punk,rock/alternative,1985,1980s,uk,38:29:00,any,low
+Holiday,The Magnetic Fields,indie pop,rock/alternative,1994,1990s,usa,36:19:00,summer,low
+Hikari no Kakera,Walrus,shoegaze,rock/alternative,2000,2000s,japan,55:44:00,summer,low
+Funeral,Arcade Fire,indie rock,rock/alternative,2004,2000s,canada,47:56:00,fall,high
+Neon Bible,Arcade Fire,indie rock,rock/alternative,2007,2000s,canada,46:56:00,winter,high
+The Suburbs,Arcade Fire,indie rock,rock/alternative,2010,2010s,canada,63:55:00,summer,high
+Vision Creation Newsun,Boredoms,experimental rock,rock/alternative,1999,1990s,japan,67:41:00,summer,low
+Before and After Science,Brian Eno,art rock,rock/alternative,1977,1970s,uk,40:00:00,any,medium
+You Forgot It in People,Broken Social Scene,indie rock,rock/alternative,2002,2000s,canada,56:04:00,any,high
+Ege Bamyasi,Can,krautrock,rock/alternative,1972,1970s,germany,39:26:00,any,medium
+Soundtracks,Can,krautrock,rock/alternative,1973,1970s,germany,35:09:00,any,low
+Tago Mago,Can,krautrock,rock/alternative,1971,1970s,germany,73:15:00,any,low
+Hunky Dory,David Bowie,art rock,rock/alternative,1971,1970s,uk,41:32:00,spring,medium
+Low,David Bowie,art rock,rock/alternative,1977,1970s,uk,38:26:00,fall,medium
+The Rise and Fall of Ziggy Stardust,David Bowie,glam rock,rock/alternative,1972,1970s,uk,38:29:00,any,high
+DI Go Pop,Disco Inferno,experimental rock,rock/alternative,1994,1990s,uk,33:21:00,spring,low
+Hibernaculum,Earth,post-rock,rock/alternative,2007,2000s,usa,36:45:00,spring,low
+Hex; or Printing in the Infernal Method,Earth,post-rock,rock/alternative,2005,2000s,usa,46:27:00,summer,low
+Eldorado,Electric Light Orchestra,art rock,rock/alternative,1974,1970s,uk,39:21:00,any,low
+Canto Ostinato,Erik Hall,minimalism,experimental,2023,2020s,usa,58:47:00,spring,low
+Faust IV,Faust,krautrock,rock/alternative,1973,1970s,germany,43:37:00,any,low
+So Far,Faust,krautrock,rock/alternative,1972,1970s,germany,40:16:00,any,low
+I'm New Here,Gil Scott-Heron,spoken word,experimental,2010,2010s,usa,28:16:00,any,medium
+F#A#Infinity,Godspeed You! Black Emperor,post-rock,rock/alternative,1997,1990s,canada,38:21:00,winter,high
+Lift Your Skinny Fists Like Antennas to Heaven,Godspeed You! Black Emperor,post-rock,rock/alternative,2000,2000s,canada,87:21:00,fall,low
+Aqualung,Jethro Tull,progressive rock,rock/alternative,1971,1970s,uk,43:53:00,any,low
+Insignificance,Jim O'Rourke,indie rock,rock/alternative,2001,2000s,usa,38:24:00,fall,low
+In the Court of the Crimson King,King Crimson,progressive rock,rock/alternative,1969,1960s,uk,41:59:00,spring,medium
+Red,King Crimson,progressive rock,rock/alternative,1974,1970s,uk,39:53:00,fall,low
+Transformer,Lou Reed,glam rock,rock/alternative,1972,1970s,usa,36:40:00,any,low
+Tubular Bells,Mike Oldfield,progressive rock,rock/alternative,1973,1970s,uk,48:50:00,fall,low
+Neu! 75,Neu!,krautrock,rock/alternative,1975,1970s,germany,42:33:00,any,low
+Solo Piano,Philip Glass,minimalism,experimental,1989,1980s,usa,50:20:00,fall,low
+Koyaanisqatsi (1998),Philip Glass,minimalism,experimental,1983,1980s,usa,46:16:00,winter,low
+Disaffected,Piano Magic,art rock,rock/alternative,2005,2000s,uk,54:52:00,fall,low
+Animals,Pink Floyd,progressive rock,rock/alternative,1977,1970s,uk,41:40:00,any,low
+Meddle,Pink Floyd,progressive rock,rock/alternative,1971,1970s,uk,46:47:00,spring,low
+Atom Heart Mother,Pink Floyd,progressive rock,rock/alternative,1970,1970s,uk,52:06:00,summer,low
+The Dark Side of the Moon,Pink Floyd,progressive rock,rock/alternative,1973,1970s,uk,42:50:00,any,high
+The Wall,Pink Floyd,art rock,rock/alternative,1979,1970s,uk,81:03:00,any,medium
+Wish You Were Here,Pink Floyd,progressive rock,rock/alternative,1975,1970s,uk,44:05:00,fall,high
+Hosianna Mantra,Popol Vuh,ambient,electronic,1972,1970s,germany,37:00:00,spring,medium
+"Letzte Tage, Letzte Nachte",Popol Vuh,krautrock,rock/alternative,1976,1970s,germany,30:19:00,spring,low
+A Moon Shaped Pool,Radiohead,art rock,rock/alternative,2016,2010s,uk,52:31:00,winter,low
+Amnesiac,Radiohead,art rock,rock/alternative,2001,2000s,uk,43:50:00,winter,medium
+Hail to the Thief,Radiohead,art rock,rock/alternative,2003,2000s,uk,56:33:00,fall,medium
+In Rainbows,Radiohead,art rock,rock/alternative,2007,2000s,uk,42:38:00,spring,high
+Kid A,Radiohead,art rock,rock/alternative,2000,2000s,uk,49:55:00,winter,high
+OK Computer,Radiohead,art rock,rock/alternative,1997,1990s,uk,53:21:00,fall,high
+The Bends,Radiohead,britpop,rock/alternative,1995,1990s,uk,48:36:00,fall,high
+The King of Limbs,Radiohead,experimental rock,rock/alternative,2011,2010s,uk,37:29:00,spring,medium
+Ashes Are Burning,Renaissance,folk,folk/country,1973,1970s,uk,40:47:00,fall,low
+Avalon,Roxy Music,new wave,rock/alternative,1982,1980s,uk,37:02:00,spring,medium
+Siren,Roxy Music,glam rock,rock/alternative,1975,1970s,uk,42:11:00,summer,medium
+Kveikur,Sigur Ros,post-rock,rock/alternative,2013,2010s,iceland,48:14:00,winter,low
+Spiderland,Slint,post-rock,rock/alternative,1991,1990s,usa,39:31:00,winter,low
+Cigarette Smoke Phantom,Something Like Elvis,space rock,rock/alternative,2002,2000s,poland,57:58:00,fall,low
+Kimono My House,Sparks,glam rock,rock/alternative,1974,1970s,usa,35:49:00,summer,low
+Spring,Spring,progressive rock,rock/alternative,1971,1970s,uk,40:14:00,spring,low
+Aja,Steely Dan,jazz-rock,jazz,1977,1970s,usa,39:31:00,summer,high
+Can't Buy a Thrill,Steely Dan,jazz-rock,jazz,1972,1970s,usa,40:39:00,summer,medium
+Gaucho,Steely Dan,jazz-rock,jazz,1980,1980s,usa,37:49:00,summer,low
+Cobra and Phases Group Play Voltage in the Milky Night,Stereolab,art pop,pop,1999,1990s,uk,75:37:00,summer,medium
+Dots and Loops,Stereolab,art pop,pop,1997,1990s,uk,65:52:00,spring,medium
+Emperor Tomato Ketchup,Stereolab,art pop,pop,1996,1990s,uk,57:15:00,summer,high
+Peng,Stereolab,noise pop,rock/alternative,1992,1990s,uk,47:47:00,summer,low
+Refried Ectoplasm,Stereolab,noise pop,rock/alternative,1995,1990s,uk,62:56:00,summer,medium
+Transient Random-Noise Bursts with Announcements,Stereolab,noise pop,rock/alternative,1993,1990s,uk,62:11:00,summer,medium
+Music for 18 Musicians (1998),Steve Reich,minimalism,experimental,1998,1990s,usa,67:42:00,spring,low
+Alan Vega/Martin Rev,Suicide,synth punk,electronic,1980,1980s,usa,40:05:00,any,low
+Suicide,Suicide,synth punk,electronic,1977,1970s,usa,31:51:00,any,high
+The Colour of Spring,Talk Talk,art pop,pop,1986,1980s,uk,45:40:00,spring,low
+Spirit of Eden,Talk Talk,art rock,rock/alternative,1988,1980s,uk,41:30:00,spring,low
+Fear of Music,Talking Heads,new wave,rock/alternative,1979,1970s,usa,40:25:00,any,medium
+Remain in Light,Talking Heads,new wave,rock/alternative,1980,1980s,usa,39:48:00,any,low
+Talking Heads 77,Talking Heads,new wave,rock/alternative,1977,1970s,usa,38:37:00,any,medium
+Rubycon,Tangerine Dream,ambient,electronic,1975,1970s,germany,34:53:00,any,low
+Stratosfear,Tangerine Dream,ambient,electronic,1976,1970s,germany,34:39:00,fall,low
+Pet Sounds,The Beach Boys,baroque pop,pop,1966,1960s,usa,35:01:00,summer,high
+A Hard Day's Night,The Beatles,pop rock,pop,1964,1960s,uk,30:09:00,any,high
+Abbey Road,The Beatles,pop rock,pop,1969,1960s,uk,47:03:00,summer,high
+Help,The Beatles,pop rock,pop,1965,1960s,uk,33:44:00,any,high
+Let It Be,The Beatles,pop rock,pop,1970,1970s,uk,35:10:00,any,high
+Magical Mystery Tour,The Beatles,pop rock,pop,1967,1960s,uk,36:32:00,summer,high
+Revolver,The Beatles,pop rock,pop,1966,1960s,uk,35:01:00,spring,high
+Rubber Soul,The Beatles,pop rock,pop,1965,1960s,uk,34:59:00,fall,high
+Sgt Pepper's Lonely Hearts Club Band,The Beatles,pop rock,pop,1967,1960s,uk,39:36:00,summer,high
+White Album,The Beatles,pop rock,pop,1968,1960s,uk,93:33:00,any,high
+With the Beatles,The Beatles,pop rock,pop,1963,1960s,uk,33:07:00,any,high
+Their Satanic Majesties' Second Request,The Brian Jonestown Massacre,psychedelic rock,rock/alternative,1996,1990s,usa,73:53:00,summer,low
+Strange Days,The Doors,psychedelic rock,rock/alternative,1967,1960s,usa,34:49:00,any,low
+The Doors,The Doors,psychedelic rock,rock/alternative,1967,1960s,usa,43:25:00,any,medium
+Arthur or the Decline and Fall of the British Empire,The Kinks,pop rock,pop,1969,1960s,uk,48:37:00,any,medium
+The Kinks Are the Village Green Preservation Society,The Kinks,pop rock,pop,1968,1960s,uk,39:48:00,summer,medium
+Basket of Light,The Pentangle,folk,folk/country,1969,1960s,uk,40:58:00,spring,low
+The Biz,The Sea and Cake,indie rock,rock/alternative,1995,1990s,usa,38:21:00,spring,low
+The Velvet Underground,The Velvet Underground,pop rock,pop,1969,1960s,usa,43:35:00,any,high
+The Velvet Underground and Nico,The Velvet Underground,art rock,rock/alternative,1967,1960s,usa,47:51:00,fall,high
+White Light/White Heat,The Velvet Underground,proto-punk,rock/alternative,1968,1960s,usa,38:55:00,any,high
+Loaded,The Velvet Underground,pop rock,pop,1970,1970s,usa,40:35:00,summer,high
+Salon de Musique,Su Tissue,ambient,electronic,1984,1980s,usa,33:53:00,fall,low
+Odessey and Oracle,The Zombies,baroque pop,pop,1968,1960s,uk,35:18:00,spring,low
+Godbluff,Van der Graaf Generator,progressive rock,rock/alternative,1975,1970s,uk,37:29:00,fall,low
+The Mollusk,Ween,neo-psychedelia,rock/alternative,1997,1990s,usa,44:20:00,summer,medium
+White Pepper,Ween,pop rock,pop,2000,2000s,usa,39:28:00,summer,low
+The Disintegration Loops,William Basinski,ambient,electronic,2002,2000s,usa,74:00:00,fall,low
+Close to the Edge,Yes,progressive rock,rock/alternative,1972,1970s,uk,38:42:00,spring,low
+"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,garage rock revival,rock/alternative,2006,2000s,uk,40:58:00,any,high
+Bad Brains,Bad Brains,hardcore punk,rock/alternative,1982,1980s,usa,33:56:00,any,low
+Silent Alarm,Bloc Party,post-punk revival,rock/alternative,2005,2000s,uk,58:52:00,any,high
+Sweet Tea,Buddy Guy,blues rock,rock/alternative,2001,2000s,usa,54:18:00,summer,low
+Fresh Fruit for Rotting Vegetables,Dead Kennedys,hardcore punk,rock/alternative,1980,1980s,usa,32:55:00,any,high
+Solid Gold,Gang of Four,post-punk,rock/alternative,1981,1980s,uk,38:22:00,any,low
+Dookie,Green Day,pop punk,rock/alternative,1994,1990s,usa,39:43:00,summer,medium
+The Idiot,Iggy Pop,post-punk,rock/alternative,1977,1970s,usa,38:34:00,any,low
+Index (The Black Album),Index,psychedelic rock,rock/alternative,1967,1960s,usa,32:51:00,winter,low
+So Alone,Johnny Thunders,punk rock,rock/alternative,1978,1970s,usa,32:22:00,any,low
+Unknown Pleasures,Joy Division,post-punk,rock/alternative,1979,1970s,uk,38:21:00,winter,low
+Led Zeppelin II,Led Zeppelin,blues rock,rock/alternative,1969,1960s,uk,40:44:00,summer,low
+Led Zeppelin IV,Led Zeppelin,blues rock,rock/alternative,1971,1970s,uk,42:20:00,spring,low
+Real Life,Magazine,post-punk,rock/alternative,1978,1970s,uk,41:24:00,fall,low
+The Obliterati,Mission of Burma,post-punk,rock/alternative,2006,2000s,usa,51:40:00,any,low
+Let Love In,Nick Cave and the Bad Seeds,gothic rock,rock/alternative,1994,1990s,australia,48:14:00,fall,medium
+Your Funeral...My Trial,Nick Cave and the Bad Seeds,post-punk,rock/alternative,1986,1980s,australia,43:13:00,winter,low
+Play 9 Songs With Mr Quintron,Oblivians,punk blues,rock/alternative,1997,1990s,usa,27:14:00,fall,low
+Dub Housing,Pere Ubu,post-punk,rock/alternative,1978,1970s,usa,35:17:00,any,low
+Songs for the Deaf,Queens of the Stone Age,stoner rock,rock/alternative,2002,2000s,usa,59:21:00,summer,low
+If Two Worlds Kiss,Pink Turns Blue,gothic rock,rock/alternative,1987,1980s,germany,36:45:00,winter,low
+The Shape of Punk to Come,Refused,post-hardcore,rock/alternative,1998,1990s,sweden,55:07:00,any,low
+Blank Generation,Richard Hell and the Voidoids,punk rock,rock/alternative,1977,1970s,usa,32:38:00,any,medium
+Teenage Snuff Film,Rowland S Howard,punk blues,rock/alternative,1999,1990s,australia,54:20:00,winter,medium
+My Brain Hurts,Screeching Weasel,pop punk,rock/alternative,1991,1990s,usa,29:59:00,summer,low
+Nowa Aleksandria,Siekiera,coldwave,rock/alternative,1986,1980s,poland,40:08:00,winter,low
+Call the Doctor,Sleater-Kinney,indie rock,rock/alternative,1996,1990s,usa,29:59:00,any,low
+White Light from the Mouth of Infinity,Swans,gothic rock,rock/alternative,1991,1990s,usa,67:56:00,fall,low
+"...In ""Jane From Occupied Europe""",Swell Maps,post-punk,rock/alternative,1980,1980s,uk,44:19:00,fall,low
+Marquee Moon,Television,art rock,rock/alternative,1977,1970s,usa,45:13:00,any,medium
+Script of the Bridge,The Chameleons,post-punk,rock/alternative,1983,1980s,uk,57:00:00,winter,medium
+Disintegration,The Cure,gothic rock,rock/alternative,1989,1980s,uk,71:45:00,fall,low
+Seventeen Seconds,The Cure,gothic rock,rock/alternative,1980,1980s,uk,35:40:00,winter,medium
+Faith,The Cure,gothic rock,rock/alternative,1981,1980s,uk,36:44:00,winter,low
+Go Girl Crazy!,The Dictators,proto-punk,rock/alternative,1975,1970s,usa,34:48:00,any,low
+This Nation's Saving Grace,The Fall,post-punk,rock/alternative,1985,1980s,uk,47:17:00,any,medium
+Crazy Rhythms,The Feelies,post-punk,rock/alternative,1980,1980s,usa,43:04:00,any,low
+Fear and Whiskey,The Mekons,post-punk,rock/alternative,1985,1980s,uk,35:13:00,summer,low
+The Modern Lovers,The Modern Lovers,proto-punk,rock/alternative,1976,1970s,usa,34:51:00,any,high
+Strange Boutique,The Monochrome Set,post-punk,rock/alternative,1980,1980s,uk,35:10:00,any,low
+High Violet,The National,indie rock,rock/alternative,2010,2010s,usa,47:40:00,fall,high
+The Raincoats,The Raincoats,post-punk,rock/alternative,1979,1970s,uk,31:33:00,any,low
+Let It Be,The Replacements,punk rock,rock/alternative,1984,1980s,usa,32:56:00,summer,low
+Floodlands,The Sisters of Mercy,gothic rock,rock/alternative,1987,1980s,uk,49:24:00,winter,low
+The Queen Is Dead,The Smiths,jangle pop,rock/alternative,1986,1980s,uk,36:47:00,fall,medium
+Here Are the Sonics!!,The Sonics,proto-punk,rock/alternative,1965,1960s,usa,28:48:00,any,low
+Fun House,The Stooges,proto-punk,rock/alternative,1970,1970s,usa,36:24:00,any,medium
+Raw Power,The Stooges,proto-punk,rock/alternative,1973,1970s,usa,33:26:00,any,low
+Room on Fire,The Strokes,garage rock revival,rock/alternative,2001,2000s,usa,36:19:00,any,low
+Is This It,The Strokes,garage rock revival,rock/alternative,2003,2000s,usa,32:59:00,any,high
+Icky Thump,The White Stripes,garage rock revival,rock/alternative,2007,2000s,usa,48:16:00,any,high
+De Stijl,The White Stripes,garage rock revival,rock/alternative,2000,2000s,usa,37:31:00,any,high
+Elephant,The White Stripes,garage rock revival,rock/alternative,2003,2000s,usa,49:47:00,any,high
+Youth of America,Wipers,post-punk,rock/alternative,1981,1980s,usa,30:40:00,any,low
+154,Wire,post-punk,rock/alternative,1979,1970s,uk,44:46:00,any,low
+Chairs Missing,Wire,post-punk,rock/alternative,1978,1970s,uk,42:25:00,any,low
+Pink Flag,Wire,punk rock,rock/alternative,1977,1970s,uk,35:19:00,any,low
+Colossal Youth,Young Marble Giants,post-punk,rock/alternative,1980,1980s,uk,38:12:00,winter,high
+Dangerous Woman,Ariana Grande,contemporary r&b,R&B/soul,2016,2010s,usa,39:31:00,any,medium
+"Thank U, Next",Ariana Grande,pop,pop,2019,2010s,usa,41:04:00,any,low
+...Keyboard Fantasies...,Beverly Glenn-Copeland,ambient,electronic,1986,1980s,usa,39:23:00,winter,low
+Debut,Bjork,art pop,pop,1993,1990s,iceland,48:15:00,spring,medium
+Homogenic,Bjork,art pop,pop,1997,1990s,iceland,43:31:00,winter,high
+Post,Bjork,art pop,pop,1995,1990s,iceland,46:11:00,any,medium
+Vespertine,Bjork,art pop,pop,2001,2000s,iceland,55:39:00,winter,low
+Blackout,Britney Spears,electropop,electronic,2007,2000s,usa,43:44:00,any,high
+Dedicated,Carly Rae Jepsen,synthpop,electronic,2019,2010s,canada,42:23:00,summer,medium
+Emotion,Carly Rae Jepsen,synthpop,electronic,2015,2010s,canada,65:13:00,summer,high
+Emotion Side B,Carly Rae Jepsen,synthpop,electronic,2016,2010s,canada,27:37:00,summer,low
+Tapestry,Carole King,soft rock,pop,1971,1970s,usa,44:09:00,fall,high
+Charli,Charli XCX,electropop,electronic,2019,2010s,uk,50:56:00,any,low
+Number 1 Angel,Charli XCX,electropop,electronic,2017,2010s,uk,37:23:00,summer,low
+Pop 2,Charli XCX,electropop,electronic,2017,2010s,uk,40:26:00,any,high
+Fantasma,Cornelius,indietronica,electronic,1997,1990s,japan,66:59:00,summer,low
+Secrets of the Beehive,David Sylvian,art pop,pop,1987,1980s,uk,34:31:00,fall,low
+The Idler Wheel,Fiona Apple,piano rock,pop,2012,2010s,usa,42:37:00,any,low
+When the Pawn,Fiona Apple,piano rock,pop,1999,1990s,usa,42:37:00,fall,low
+Rumours,Fleetwood Mac,pop rock,pop,1977,1970s,uk,39:03:00,spring,high
+Art Angels,Grimes,electropop,electronic,2015,2010s,canada,49:49:00,summer,low
+Miss Anthropocene,Grimes,art pop,pop,2020,2020s,canada,44:40:00,winter,low
+Visions,Grimes,synthpop,electronic,2012,2010s,canada,47:57:00,spring,low
+Reflections,Hannah Diamond,electropop,electronic,2019,2010s,uk,38:56:00,winter,low
+Kyuusai no Gihou,Hirasawa Susumu,art pop,pop,1998,1990s,japan,53:29:00,any,low
+The Velvet Rope,Janet Jackson,contemporary r&b,R&B/soul,1997,1990s,usa,75:23:00,spring,medium
+"Paris, 1919",John Cale,baroque pop,pop,1973,1970s,uk,31:19:00,winter,medium
+Imagine,John Lennon,pop rock,pop,1971,1970s,uk,38:30:00,any,low
+John Lennon/Plastic Ono Band,John Lennon,folk,folk/country,1970,1970s,uk,39:16:00,fall,low
+Hounds of Love,Kate Bush,art pop,pop,1985,1980s,uk,47:03:00,winter,low
+Never for Ever,Kate Bush,art pop,pop,1980,1980s,uk,37:23:00,any,low
+Bonito Generation,Kero Kero Bonito,electropop,electronic,2016,2010s,uk,36:22:00,summer,medium
+Civilisation II EP,Kero Kero Bonito,synthpop,electronic,2021,2020s,uk,14:01,spring,low
+3,Kirinji,sophisti-pop,R&B/soul,2000,2000s,japan,69:26:00,summer,low
+Norman F****** Rockwell,Lana Del Rey,art pop,pop,2019,2010s,usa,67:42:00,summer,high
+L'Amour,Lewis,ambient,pop,1983,1980s,canada,37:00:00,spring,medium
+Melodrama,Lorde,synthpop,electronic,2017,2010s,new zealand,40:58:00,any,medium
+Ray of Light,Madonna,art pop,pop,1998,1990s,usa,66:42:00,winter,high
+Thriller,Michael Jackson,contemporary r&b,R&B/soul,1982,1980s,usa,42:15:00,any,high
+Fushigi,Nakamori Akina,synthpop,electronic,1986,1980s,japan,45:08:00,any,low
+Nancy & Lee,Nancy Sinatra & Lee Hazlewood,baroque pop,pop,1968,1960s,usa,34:35:00,summer,low
+Sennou,Oomori Seiko,art pop,pop,2014,2010s,japan,51:28:00,any,low
+Graceland,Paul Simon,pop rock,pop,1986,1980s,usa,42:37:00,summer,high
+Purple Rain,Prince,pop rock,pop,1984,1980s,usa,43:50:00,summer,high
+Coles Corner,Richard Hawley,baroque pop,pop,2005,2000s,uk,46:10:00,fall,low
+Body Talk,Robyn,electropop,electronic,2010,2010s,sweden,61:50:00,any,high
+Initials BB,Serge Gainsbourg,baroque pop,pop,1968,1960s,france,31:26:00,summer,low
+"Night Time, My Time",Sky Ferreira,synthpop,electronic,2013,2010s,usa,45:52:00,any,medium
+Oil of Every Pearl's Un-Sides,SOPHIE,bubblegum bass,electronic,2015,2010s,uk,25:19:00,any,medium
+Product,SOPHIE,bubblegum bass,electronic,2018,2010s,uk,39:56:00,any,low
+Hats,The Blue Nile,sophisti-pop,R&B/soul,1989,1980s,uk,38:43:00,winter,low
+American Football,American Football,midwest emo,rock/alternative,1999,1990s,usa,40:51:00,fall,medium
+Icky Mettle,Archers of Loaf,loafcore,rock/alternative,1993,1990s,usa,37:52:00,summer,low
+You Turn Me On,Beat Happening,loafcore,rock/alternative,1992,1990s,usa,45:22:00,spring,high
+Dear Catastrophe Waitress,Belle and Sebastian,twee pop,rock/alternative,2003,2000s,uk,48:19:00,fall,high
+Tigermilk,Belle and Sebastian,twee pop,rock/alternative,1996,1990s,uk,41:37:00,fall,high
+Whatever and Ever Amen,Ben Folds Five,piano rock,pop,1997,1990s,usa,50:46:00,fall,low
+#1 Record,Big Star,power pop,rock/alternative,1972,1970s,usa,36:56:00,summer,medium
+13,Blur,experimental rock,rock/alternative,1999,1990s,uk,66:43:00,fall,medium
+Blur,Blur,britpop,rock/alternative,1997,1990s,uk,57:06:00,any,medium
+Parklife,Blur,britpop,rock/alternative,1994,1990s,uk,52:43:00,summer,high
+The Devil and God Are Raging Inside Me,Brand New,emo,rock/alternative,2006,2000s,usa,54:50:00,fall,low
+Keep It Like a Secret,Built to Spill,indie rock,rock/alternative,1999,1990s,usa,46:53:00,summer,high
+Perfect From Now On,Built to Spill,indie rock,rock/alternative,1997,1990s,usa,54:12:00,summer,low
+There's Nothing Wrong with Love,Built to Spill,loafcore,rock/alternative,1994,1990s,usa,46:48:00,summer,low
+Shmap'n Shmazz,Cap'n Jazz,midwest emo,rock/alternative,1995,1990s,usa,31:13:00,summer,low
+Teens of Denial,Car Seat Headrest,indie rock,rock/alternative,2016,2010s,usa,70:05:00,any,medium
+Twin Fantasy,Car Seat Headrest,indie rock,rock/alternative,2018,2010s,usa,71:16:00,summer,high
+Beautiful Freak,Eels,indie pop,rock/alternative,1996,1990s,usa,43:53:00,fall,low
+"Pills, Thrills n' Bellyaches",Happy Mondays,baggy,rock/alternative,1990,1990s,uk,43:49:00,summer,low
+Heavenly vs. Satan,Heavenly,twee pop,rock/alternative,1991,1990s,uk,32:11:00,spring,low
+Time n Place,Kero Kero Bonito,twee pop,rock/alternative,2018,2010s,uk,33:03:00,any,low
+Everything Must Go,Manic Street Preachers,britpop,rock/alternative,1996,1990s,uk,45:19:00,summer,low
+The Lonesome Crowded West,Modest Mouse,loafcore,rock/alternative,1997,1990s,usa,73:50:00,summer,low
+The Moon and Antarctica,Modest Mouse,indie rock,rock/alternative,2000,2000s,usa,58:48:00,winter,low
+Vauxhall and I,Morrissey,indie pop,rock/alternative,1994,1990s,uk,39:47:00,spring,low
+Definitely Maybe,Oasis,britpop,rock/alternative,1994,1990s,uk,51:56:00,any,medium
+What's the Story (Morning Glory),Oasis,britpop,rock/alternative,1995,1990s,uk,50:03:00,summer,medium
+Ram,Paul McCartney,pop rock,pop,1971,1970s,uk,43:10:00,spring,high
+"Crooked Rain, Crooked Rain",Pavement,loafcore,rock/alternative,1994,1990s,usa,42:16:00,summer,high
+Slanted and Enchanted,Pavement,loafcore,rock/alternative,1992,1990s,usa,39:01:00,summer,medium
+Wowee Zowee,Pavement,loafcore,rock/alternative,1995,1990s,usa,55:51:00,spring,low
+Bossanova,Pixies,indie rock,rock/alternative,1990,1990s,usa,39:41:00,summer,low
+Surfer Rosa,Pixies,indie rock,rock/alternative,1988,1980s,usa,34:07:00,summer,low
+His n Hers,Pulp,britpop,rock/alternative,1994,1990s,uk,50:38:00,summer,low
+Automatic for the People,R.E.M,jangle pop,rock/alternative,1992,1990s,usa,48:25:00,fall,high
+Document,R.E.M,jangle pop,rock/alternative,1987,1980s,usa,39:34:00,fall,high
+New Adventures in Hi-Fi,R.E.M,indie rock,rock/alternative,1996,1990s,usa,65:13:00,any,medium
+Reckoning,R.E.M,jangle pop,rock/alternative,1984,1980s,usa,37:27:00,spring,high
+Murmur,R.E.M,jangle pop,rock/alternative,1983,1980s,usa,42:59:00,spring,high
+"A Certain Smile, A Certain Sadness",Rocketship,twee pop,rock/alternative,1996,1990s,usa,33:41:00,fall,low
+Bakesale,Sebadoh,loafcore,rock/alternative,1994,1990s,usa,41:51:00,summer,low
+American Water,Silver Jews,loafcore,rock/alternative,1998,1990s,usa,47:53:00,summer,high
+Hi Fi Anatomia,Soutaiseiriron,indie pop,rock/alternative,2009,2000s,japan,33:21:00,fall,medium
+Hachimitsu,Spitz,jangle pop,rock/alternative,1995,1990s,japan,43:25:00,spring,high
+Diary,Sunny Day Real Estate,midwest emo,rock/alternative,1994,1990s,usa,52:46:00,fall,medium
+How It Feels to Be Something On,Sunny Day Real Estate,midwest emo,rock/alternative,1998,1990s,usa,45:38:00,fall,low
+Bandwagonesque,Teenage Fanclub,power pop,rock/alternative,1991,1990s,uk,42:50:00,summer,low
+The Cars,The Cars,new wave,rock/alternative,1978,1970s,usa,35:40:00,summer,high
+"Home, Like Noplace Is There",The Hotelier,emo,rock/alternative,2014,2010s,usa,36:09:00,fall,low
+Happy Bivouac,The Pillows,power pop,rock/alternative,1999,1990s,japan,42:42:00,summer,low
+The Stone Roses,The Stone Roses,baggy,rock/alternative,1989,1980s,uk,48:20:00,summer,high
+Urban Hymns,The Verve,britpop,rock/alternative,1997,1990s,uk,75:51:00,fall,high
+Pinkerton,Weezer,power pop,rock/alternative,1996,1990s,usa,34:49:00,fall,high
+The Blue Album,Weezer,power pop,rock/alternative,1994,1990s,usa,41:25:00,summer,high
+And Then Nothing Turned Itself Inside Out,Yo La Tengo,indie rock,rock/alternative,2000,2000s,usa,77:15:00,fall,medium
+I Can Hear the Heart Beating As One,Yo La Tengo,indie rock,rock/alternative,1997,1990s,usa,68:10:00,fall,medium
+Painful,Yo La Tengo,indie rock,rock/alternative,1993,1990s,usa,48:36:00,winter,medium
+Get Rich or Die Tryin',50 Cent,gangsta rap,hip-hop/rap,2003,2000s,usa,69:29:00,summer,high
+LIVE.LOVE.A$AP,A$AP Rocky,cloud rap,hip-hop/rap,2011,2010s,usa,53:49:00,summer,medium
+Back to Black,Amy Winehouse,soul,R&B/soul,2006,2000s,uk,34:53:00,any,high
+The Low End Theory,A Tribe Called Quest,boom bap,hip-hop/rap,1991,1990s,usa,48:03:00,summer,low
+Doe or Die,AZ,boom bap,hip-hop/rap,1995,1990s,usa,46:09:00,winter,low
+Purple Haze,Cam'ron,gangsta rap,hip-hop/rap,2004,2000s,usa,77:46:00,summer,high
+The Black Saint and the Sinner Lady,Charles Mingus,third stream,jazz,1963,1960s,usa,37:37:00,any,low
+Mingus Ah Um,Charles Mingus,post-bop,jazz,1959,1950s,usa,45:53:00,any,low
+Finally Rich,Chief Keef,gangsta rap,hip-hop/rap,2012,2010s,usa,45:14:00,summer,high
+Hell Hath No Fury,Clipse,gangsta rap,hip-hop/rap,2006,2000s,usa,50:05:00,summer,high
+Lord Willin',Clipse,gangsta rap,hip-hop/rap,2002,2000s,usa,60:50:00,summer,high
+Superfly,Curtis Mayfield,soul,R&B/soul,1972,1970s,usa,36:01:00,summer,low
+Voodoo,D'Angelo,neo-soul,R&B/soul,2000,2000s,usa,78:54:00,summer,high
+Atrocity Exhibition,Danny Brown,hardcore hip hop,hip-hop/rap,2016,2010s,usa,46:38:00,any,low
+XXX,Danny Brown,hardcore hip hop,hip-hop/rap,2011,2010s,usa,53:19:00,any,high
+Bottomless Pit,Death Grips,experimental hip hop,hip-hop/rap,2016,2010s,usa,39:20:00,any,medium
+Exmilitary,Death Grips,experimental hip hop,hip-hop/rap,2011,2010s,usa,48:44:00,any,high
+The Money Store,Death Grips,experimental hip hop,hip-hop/rap,2012,2010s,usa,41:11:00,any,high
+Boy in Da Corner,Dizzee Rascal,grime,hip-hop/rap,2003,2000s,uk,57:06:00,any,high
+Endtroducing...,DJ Shadow,plunderphonics,electronic,1996,1990s,usa,63:24:00,winter,medium
+If You're Reading This It's Too Late,Drake,pop rap,hip-hop/rap,2015,2010s,canada,68:38:00,winter,high
+Take Care,Drake,pop rap,hip-hop/rap,2011,2010s,canada,80:23:00,fall,high
+"I Don't Like S***, I Don't Go Outside",Earl Sweatshirt,experimental hip hop,hip-hop/rap,2015,2010s,usa,29:56:00,winter,low
+Mama's Gun,Erykah Badu,neo-soul,R&B/soul,2000,2000s,usa,71:50:00,summer,medium
+Baduizm,Erykah Badu,neo-soul,R&B/soul,1997,1990s,usa,58:15:00,summer,medium
+Gentleman,Fela Kuti,afrobeat,funk/world,1973,1970s,nigeria,30:52:00,summer,medium
+Blonde,Frank Ocean,alternative r&b,R&B/soul,2016,2010s,usa,60:08:00,summer,high
+Channel Orange,Frank Ocean,alternative r&b,R&B/soul,2012,2010s,usa,55:51:00,summer,medium
+"Nostalgia, Ultra",Frank Ocean,alternative r&b,R&B/soul,2011,2010s,usa,42:14:00,summer,high
+56 Nights,Future,trap,hip-hop/rap,2015,2010s,usa,30:46:00,any,low
+DS2,Future,trap,hip-hop/rap,2015,2010s,usa,44:29:00,any,high
+Future,Future,trap,hip-hop/rap,2017,2010s,usa,62:47:00,any,medium
+Monster,Future,trap,hip-hop/rap,2014,2010s,usa,52:29:00,any,high
+Beast Mode,Future,trap,hip-hop/rap,2015,2010s,usa,27:55:00,any,high
+Supreme Clientele,Ghostface Killah,hardcore hip hop,hip-hop/rap,2000,2000s,usa,64:02:00,any,medium
+6 Feet Deep,Gravediggaz,horrorcore,hip-hop/rap,1994,1990s,usa,52:19:00,winter,low
+Liquid Swords,GZA,hardcore hip hop,hip-hop/rap,1995,1990s,usa,55:15:00,any,medium
+Dance Hall Style,Horace Andy,dub,funk/world,1982,1980s,jamaica,41:01:00,summer,low
+Leaks 04-13,Jai Paul,alternative r&b,R&B/soul,2019,2010s,uk,37:17:00,summer,medium
+The Black Album,Jay-Z,pop rap,hip-hop/rap,2003,2000s,usa,55:58:00,any,high
+The Blueprint,Jay-Z,pop rap,hip-hop/rap,2001,2000s,usa,64:16:00,any,high
+Blue Train,John Coltrane,hard bop,jazz,1958,1950s,usa,42:14:00,any,medium
+Ole Coltrane,John Coltrane,post-bop,jazz,1961,1960s,usa,36:27:00,summer,low
+808s and Heartbreak,Kanye West,electropop,electronic,2008,2000s,usa,52:05:00,winter,high
+Donda,Kanye West,pop rap,hip-hop/rap,2021,2020s,usa,108:49:00,fall,medium
+Graduation,Kanye West,pop rap,hip-hop/rap,2007,2000s,usa,51:24:00,summer,high
+Late Registration,Kanye West,pop rap,hip-hop/rap,2005,2000s,usa,70:27:00,fall,high
+My Beautiful Dark Twisted Fantasy,Kanye West,pop rap,hip-hop/rap,2010,2010s,usa,68:36:00,any,high
+The College Dropout,Kanye West,pop rap,hip-hop/rap,2004,2000s,usa,76:13:00,fall,high
+The Life of Pablo,Kanye West,experimental hip hop,hip-hop/rap,2016,2010s,usa,58:03:00,summer,high
+Yeezus,Kanye West,experimental hip hop,hip-hop/rap,2013,2010s,usa,40:06:00,any,high
+Take Me Apart,Kelela,alternative r&b,R&B/soul,2017,2010s,usa,53:46:00,summer,low
+"Good Kid, M.A.A.D City",Kendrick Lamar,pop rap,hip-hop/rap,2012,2010s,usa,68:16:00,summer,high
+Mista Thug Isolation,Lil Ugly Mane,memphis rap,hip-hop/rap,2012,2010s,usa,73:38:00,winter,high
+Eternal Atake,Lil Uzi Vert,trap,hip-hop/rap,2020,2020s,usa,62:04:00,any,medium
+Lil Uzi vs the World,Lil Uzi Vert,trap,hip-hop/rap,2016,2010s,usa,33:48:00,summer,high
+The Perfect LUV Tape,Lil Uzi Vert,trap,hip-hop/rap,2016,2010s,usa,32:45:00,any,high
+Dedication 2,Lil Wayne,gangsta rap,hip-hop/rap,2006,2000s,usa,77:30:00,summer,low
+Tha Carter III,Lil Wayne,pop rap,hip-hop/rap,2008,2000s,usa,77:09:00,summer,high
+Mambo Nassau,Lizzy Mercier Descloux,funk,funk/world,1981,1980s,france,30:36:00,summer,low
+In a Silent Way,Miles Davis,modal jazz,jazz,1969,1960s,usa,38:30:00,any,low
+Illmatic,Nas,boom bap,hip-hop/rap,1994,1990s,usa,39:44:00,any,high
+Metaphorical Music,Nujabes,jazz rap,hip-hop/rap,2003,2000s,japan,62:21:00,spring,low
+Karma,Pharoah Sanders,spiritual jazz,jazz,1969,1960s,usa,38:33:00,spring,medium
+Die Lit,Playboi Carti,cloud rap,hip-hop/rap,2018,2010s,usa,57:48:00,summer,high
+Playboi Carti,Playboi Carti,cloud rap,hip-hop/rap,2017,2010s,usa,46:50:00,summer,high
+Whole Lotta Red,Playboi Carti,trap,hip-hop/rap,2020,2020s,usa,63:02:00,any,high
+Music,Playboi Carti,trap,hip-hop/rap,2025,2020s,usa,76:40:00,any,medium
+Meet the Woo,Pop Smoke,uk drill,hip-hop/rap,2019,2010s,usa,27:37:00,fall,medium
+It's Almost Dry,Pusha T,gangsta rap,hip-hop/rap,2022,2020s,usa,35:54:00,any,low
+Sremmlife,Rae Sremmurd,trap,hip-hop/rap,2015,2010s,usa,45:32:00,summer,high
+Habits and Contradictions,ScHoolboy Q,cloud rap,hip-hop/rap,2012,2010s,usa,67:42:00,summer,medium
+Blvcklvnd Rvdiv 66.6,SpaceGhostPurrp,memphis rap,hip-hop/rap,2011,2010s,usa,80:57:00,any,medium
+Stand!,Sly and the Family Stone,funk,funk/world,1969,1960s,usa,41:30:00,summer,low
+Heart of the Congos,The Congos,dub,funk/world,1977,1970s,jamaica,44:38:00,summer,medium
+Life After Death,The Notorious B.I.G,gangsta rap,hip-hop/rap,1997,1990s,usa,109:11:00,any,high
+Ready to Die,The Notorious B.I.G,gangsta rap,hip-hop/rap,1994,1990s,usa,68:58:00,any,high
+Bizarre Ride II The Pharcyde,The Pharcyde,boom bap,hip-hop/rap,1992,1990s,usa,56:44:00,summer,medium
+Enta Oumry,Umm Kulthum,arabic classical music,world/classical,1964,1960s,egypt,59:11:00,any,high
+Alf Leila Wa Leila,Umm Kulthum,arabic classical music,world/classical,1971,1970s,egypt,41:37:00,any,high
+Come N 2 My World,V.O.S,memphis rap,hip-hop/rap,1997,1990s,usa,48:31:00,winter,low
+Flockaveli,Waka Flocka Flame,trap,hip-hop/rap,2010,2010s,usa,72:06:00,summer,high
+Enter the 36 Chambers,Wu-Tang Clan,boom bap,hip-hop/rap,1993,1990s,usa,58:23:00,fall,high
+Barter 6,Young Thug,trap,hip-hop/rap,2015,2010s,usa,51:45:00,summer,medium
